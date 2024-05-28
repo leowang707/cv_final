@@ -3,7 +3,7 @@
 ARGS=("$@")
 
 # project variable
-PROJ_NAME="detr"
+PROJ_NAME="detr_seg"
 
 # Make sure processes in the container can connect to the x server
 # Necessary so gazebo can create a context for OpenGL rendering (even headless)
@@ -55,13 +55,13 @@ docker run \
     -v "/etc/localtime:/etc/localtime:ro" \
     -v "/dev:/dev" \
     -v "/var/run/docker.sock:/var/run/docker.sock" \
-    -v "/home/$USER/$PROJ_NAME:/home/arg/$PROJ_NAME" \
-    -w "/home/arg/$PROJ_NAME" \
+    -v "/home/$USER/$PROJ_NAME:/home/leowang707/$PROJ_NAME" \
+    -w "/home/leowang707/$PROJ_NAME" \
     --user "root:root" \
     --name argmm \
     --network host \
     --privileged \
     --security-opt seccomp=unconfined \
     $DOCKER_OPTS \
-    argnctu/detr:gpu \
+    leowang707/detr_seg:gpu \
     $BASH_OPTION

@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --rm -t argnctu/detr:gpu .
+docker build --rm -t leowang707/detr_seg:gpu .

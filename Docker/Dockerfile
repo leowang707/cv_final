@@ -7,7 +7,7 @@ ENV LC_ALL C.UTF-8
 ###################################### user #####################################
 
 ENV SHELL=/bin/bash \
-    USER=arg \
+    USER=leowang707 \
     UID=1000 \
     LANG=en_US.UTF-8 \
     LANGUAGE=en_US.UTF-8
