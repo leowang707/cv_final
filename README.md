@@ -283,6 +283,15 @@ python run_with_submitit.py --timeout 3000 --coco_path /path/to/coco
 
 We show that it is relatively straightforward to extend DETR to predict segmentation masks. We mainly demonstrate strong panoptic segmentation results.
 
+in the docker
+```
+source jupyter_notebook.sh
+```
+in the notebook
+```
+run the cell of DETR_panoptic.ipynb
+```
+
 ## Data preparation
 
 For panoptic segmentation, you need the panoptic annotations additionally to the coco dataset (see above for the coco dataset). You need to download and extract the [annotations](http://images.cocodataset.org/annotations/panoptic_annotations_trainval2017.zip).
