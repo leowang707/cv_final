@@ -170,7 +170,11 @@ git clone https://github.com/leowang707/detr.git
 ```
 
 ## 2. With Docker (recommended)
-Then, install and run the docker image.
+Install and build the dockerfile(for first time).
+```
+source Docker/build.sh
+```
+Run the docker image.
 ```
 source Docker/docker_run.sh
 ```
