@@ -1,0 +1,16 @@
+Label ID: 0, Category: umbrella 
+Label ID: 1, Category: umbrella 
+Label ID: 2, Category: car 
+Label ID: 3, Category: person 
+Label ID: 4, Category: tree 
+Label ID: 5, Category: pavement 
+Label ID: 6, Category: person 
+Label ID: 7, Category: umbrella 
+Label ID: 8, Category: umbrella 
+Label ID: 9, Category: person 
+Label ID: 10, Category: road 
+Label ID: 11, Category: sky 
+Label ID: 12, Category: person 
+Label ID: 13, Category: person 
+Label ID: 14, Category: grass 
+Label ID: 15, Category: umbrella 

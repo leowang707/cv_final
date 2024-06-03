@@ -3,7 +3,7 @@
 ARGS=("$@")
 
 # project variable
-PROJ_NAME="detr_seg"
+PROJ_NAME="cv_final"
 
 # Make sure processes in the container can connect to the x server
 # Necessary so gazebo can create a context for OpenGL rendering (even headless)
@@ -63,5 +63,5 @@ docker run \
     --privileged \
     --security-opt seccomp=unconfined \
     $DOCKER_OPTS \
-    leowang707/detr_seg:gpu \
+    leowang707/cv_final:gpu \
     $BASH_OPTION

@@ -1,2 +1,2 @@
-#!/bin/sh
-docker build --rm -t leowang707/detr_seg:gpu .
+
+docker build --rm -t leowang707/cv_final:gpu .
