@@ -162,11 +162,11 @@ so the code is very simple to use. We provide instructions how to install depend
 ## 1. Clone the repository
 First, clone the repository locally with ssh:
 ```
-git clone git@github.com:leowang707/detr_seg.git
+git clone git@github.com:leowang707/cv_final.git
 ```
 If you have no ssh key, you can also clone with https:
 ```
-git clone https://github.com/leowang707/detr_seg.git
+git clone https://github.com/leowang707/cv_final.git
 ```
 
 ## 2. With Docker (recommended)
