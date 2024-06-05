@@ -1,0 +1,8 @@
+Label ID: 0, Category: person
+Label ID: 1, Category: bicycle
+Label ID: 2, Category: car
+Label ID: 9, Category: traffic light
+Label ID: 21, Category: road
+Label ID: 37, Category: tree
+Label ID: 40, Category: sky
+Label ID: 44, Category: pavement

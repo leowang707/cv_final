@@ -1,0 +1,5 @@
+Label ID: 0, Category: person
+Label ID: 17, Category: horse
+Label ID: 25, Category: umbrella
+Label ID: 37, Category: tree
+Label ID: 38, Category: fence
