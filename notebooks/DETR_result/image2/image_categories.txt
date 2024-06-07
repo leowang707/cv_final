@@ -1,0 +1,7 @@
+Label ID: 13, Category: bench
+Label ID: 21, Category: road
+Label ID: 37, Category: tree
+Label ID: 40, Category: sky
+Label ID: 44, Category: pavement
+Label ID: 46, Category: grass
+Label ID: 50, Category: building
