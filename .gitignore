@@ -1,1 +1,6 @@
 *.pth
+
+# Ignore Python byte-code and cache files
+__pycache__/
+*.pyc
+
