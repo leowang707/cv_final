@@ -1,0 +1,9 @@
+Label ID: 17, Category: horse
+Label ID: 22, Category: roof
+Label ID: 37, Category: tree
+Label ID: 40, Category: sky
+Label ID: 44, Category: pavement
+Label ID: 46, Category: grass
+Label ID: 50, Category: building
+Label ID: 52, Category: wall
+Label ID: 74, Category: clock

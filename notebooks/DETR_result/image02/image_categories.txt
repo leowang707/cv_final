@@ -1,0 +1,3 @@
+Label ID: 37, Category: tree
+Label ID: 40, Category: sky
+Label ID: 50, Category: building

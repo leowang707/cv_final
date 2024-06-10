@@ -1,0 +1,11 @@
+Label ID: 0, Category: person
+Label ID: 1, Category: bicycle
+Label ID: 7, Category: door-stuff
+Label ID: 22, Category: roof
+Label ID: 24, Category: backpack
+Label ID: 34, Category: water
+Label ID: 37, Category: tree
+Label ID: 38, Category: fence
+Label ID: 40, Category: sky
+Label ID: 46, Category: grass
+Label ID: 52, Category: wall
