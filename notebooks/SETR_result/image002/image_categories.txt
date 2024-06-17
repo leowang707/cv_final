@@ -1,0 +1,14 @@
+Label ID: 0, Category: road
+Label ID: 1, Category: sidewalk
+Label ID: 2, Category: building
+Label ID: 3, Category: wall
+Label ID: 4, Category: fence
+Label ID: 5, Category: pole
+Label ID: 8, Category: vegetation
+Label ID: 9, Category: terrain
+Label ID: 10, Category: sky
+Label ID: 11, Category: person
+Label ID: 12, Category: rider
+Label ID: 13, Category: car
+Label ID: 15, Category: bus
+Label ID: 18, Category: bicycle
