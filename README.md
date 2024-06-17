@@ -41,7 +41,13 @@ or
 ```
 run the cell of SETR_panoptic.ipynb
 ```
-Stitching part
+Stitching part(three methods)
 ```
-run the cell of Stitching_Case1/2.ipynb
+run the cell of Stitching_case1.ipynb
+```
+```
+run the cell of Stitching_case2.ipynb
+```
+```
+run the cell of Stitching_multi_homo.ipynb
 ```
