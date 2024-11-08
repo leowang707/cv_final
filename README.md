@@ -17,7 +17,10 @@ git clone https://github.com/leowang707/cv_final.git
 ## 2. With Docker (recommended)
 Install and build the dockerfile(for first time).
 ```
-source Docker/build.sh
+cd cv_final/Docker/
+```
+```
+source build.sh
 ```
 Run the docker image.
 ```
